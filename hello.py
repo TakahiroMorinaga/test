@@ -8,4 +8,3 @@ def returnlist(originallist):
 	return finallist
 
 test=returnlist([2,7,4,7,2,9,9])
-print(test)
